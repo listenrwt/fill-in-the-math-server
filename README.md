@@ -2,6 +2,11 @@
 Welcome to Fill in the math, an online arithmetic battle royale created by Group B8 for CSCI3100!
 
 ## Quick Start
+You can try our Game through our online server: https://fill-in-the-math-client-production.up.railway.app/
+
+**OR**
+## Run the game locally
+
 1. Clone Repository  
 ```bash
 git clone https://github.com/listenrwt/fill-in-the-math-server.git
